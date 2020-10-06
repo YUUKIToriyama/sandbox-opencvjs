@@ -1,0 +1,22 @@
+{
+  "name": "sandbox-opencvjs",
+  "version": "1.0.0",
+  "description": "opencv.jsの練習",
+  "main": "main.js",
+  "scripts": {
+    "test": "./node_modules/http-server/bin/http-server . 8989"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YUUKIToriyama/sandbox-opencvjs.git"
+  },
+  "author": "YUUKIToriyama",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YUUKIToriyama/sandbox-opencvjs/issues"
+  },
+  "homepage": "https://github.com/YUUKIToriyama/sandbox-opencvjs#readme",
+  "devDependencies": {
+    "http-server": "^0.12.3"
+  }
+}
